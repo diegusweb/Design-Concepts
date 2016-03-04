@@ -1,5 +1,6 @@
 package app.diegusweb.designconcepts;
 
+import android.content.Intent;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -56,13 +57,13 @@ public class MainActivity extends AppCompatActivity {
                 fragmentoGenerico = new InicioFragment();
                 break;
             case R.id.item_cuenta:
-                // Fragmento para la sección Cuenta
+                fragmentoGenerico = new CuentaFragment();
                 break;
             case R.id.item_categorias:
-                // Fragmento para la sección Categorías
+                fragmentoGenerico = new FragmentoCategorias();
                 break;
             case R.id.item_configuracion:
-                // Iniciar actividad de configuración
+                startActivity(new Intent(this, ActividadConfiguracion.class));
                 break;
         }
         if (fragmentoGenerico != null) {
