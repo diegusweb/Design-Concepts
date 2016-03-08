@@ -1,7 +1,7 @@
-DisengConcepts: Aplicación para Android
+DesingConcepts: Aplicación para Android
 =================================
 
-DisengConcepts es un proyecto que tiene por objetivo proveer Material para realizar app Android
+DesingConcepts es un proyecto que tiene por objetivo proveer Material para realizar app Android
 
 Aquí podrás encontrar el código fuente de la aplicación móvil para dispositivos
 que utilizan el sistema operativo Android.
@@ -16,11 +16,11 @@ encontrar en el archivo
 
 En resumen:
 
-- Tienes la libertad de: usar, estudiar, distribuir y cambiar DisengConcepts.
-- Si haces cambios a DisengConcepts, deberás publicar dichos cambios bajo licencia GPL
+- Tienes la libertad de: usar, estudiar, distribuir y cambiar DesingConcepts.
+- Si haces cambios a DesingConcepts, deberás publicar dichos cambios bajo licencia GPL
   o bien alguna otra licencia compatible con la GPL.
-- Debes hacer referencia al proyecto y autor original de DisengConcepts, tanto si usas
-  DisengConcepts sin modificar o realizando cambios al código.
+- Debes hacer referencia al proyecto y autor original de DesingConcepts, tanto si usas
+  DesingConcepts sin modificar o realizando cambios al código.
 
 Contribuir al proyecto
 ----------------------
