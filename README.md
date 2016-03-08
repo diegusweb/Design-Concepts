@@ -16,7 +16,7 @@ encontrar en el archivo
 
 En resumen:
 
-- Tienes la libertad de: usar, estudiar, distribuir y cambiar LibreDTE.
+- Tienes la libertad de: usar, estudiar, distribuir y cambiar DisengConcepts.
 - Si haces cambios a DisengConcepts, deberás publicar dichos cambios bajo licencia GPL
   o bien alguna otra licencia compatible con la GPL.
 - Debes hacer referencia al proyecto y autor original de DisengConcepts, tanto si usas
